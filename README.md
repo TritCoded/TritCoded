@@ -23,13 +23,13 @@ I'm an aspiring computer science and mathematics student at [MUN](https://www.mu
 
 - Computer science and programming
   - Python
-  - Self studying data analysis
+  - Self-studying data analysis
   - Game development
 
 - Misc
-  - [LaTeX](https://en.wikipedia.org/wiki/LaTeX) as a second language 
+  - LaTeX proficiency
 
 ### 🐈‍⬛ Noodles
-Our pretty boy [sphynx cat](https://en.wikipedia.org/wiki/Sphynx_cat).
+Our pretty boy sphynx cat
 
 <img src="https://github.com/TritCoded/TritCoded/assets/162391277/bfe5f5b4-8c5c-4662-8659-d2395fd0e116" alt="Noodles" width="600px">
