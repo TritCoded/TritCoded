@@ -9,7 +9,9 @@ I'm an aspiring computer science and mathematics student at [MUN](https://www.mu
 - Reading and collecting books (mainly sci-fi, manga, and textbooks)
 - Hoarding information via [obsidian.md](https://obsidian.md/)
 - Video games
-- Public transportation and walkable cities 
+- Dungeons and dragons 
+- Public transportation and walkable cities
+
 
 ### 🧠 Currently learning
 - Mathematics
@@ -22,7 +24,10 @@ I'm an aspiring computer science and mathematics student at [MUN](https://www.mu
 - Computer science and programming
   - Python
   - Self studying data analysis
-  - Game development 
+  - Game development
+
+- Misc
+  - [LaTeX](https://en.wikipedia.org/wiki/LaTeX) as a second language 
 
 ### 🐈‍⬛ Noodles
 Our pretty boy [sphynx cat](https://en.wikipedia.org/wiki/Sphynx_cat).
