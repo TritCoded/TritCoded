@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm an aspiring computer science and mathematics student at [MUN](https://www.mun.ca/) with an interest in... a lot of things! 
+I'm an engineering student at [MUN](https://www.mun.ca/) with an interest in... a lot of things! 
 # Currently working on...
 https://github.com/TritCoded/Champie
 ## Here's a little more about me:
