@@ -15,22 +15,13 @@ https://github.com/TritCoded/Champie
 
 
 ### 🧠 Currently learning
-- Mathematics
-  - Revisiting and self-studying calculus
-  - Self-studying statistics
-  - Differential equations
-  - Vector calculus
-  - Discrete Math
-
-- Computer science and programming
-  - Python
-  - Self-studying data analysis
-  - Game development
-
-- Misc
-  - LaTeX proficiency
+- Vector Calculus
+- Sociology & criminology
+- Philosophy
+- CAD (Onshape)
+- Python
 
 ### 🐈‍⬛ Noodles
-Our pretty boy sphynx cat
+Our sphynx cat
 
 <img src="https://github.com/TritCoded/TritCoded/assets/162391277/bfe5f5b4-8c5c-4662-8659-d2395fd0e116" alt="Noodles" width="600px">
