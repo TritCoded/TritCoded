@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm a computer engineering student at [MUN](https://www.mun.ca/) with an interest in... a lot of things! 
+I'm a computer engineering student at [MUN](https://www.mun.ca/) with an interest in a lot of things! 
 
 ## Here's a little more about me:
 
@@ -9,9 +9,6 @@ I'm a computer engineering student at [MUN](https://www.mun.ca/) with an interes
 - Video games
 - Dungeons and dragons 
 - Public transportation and walkable cities
-
-### 🧠 Currently learning
-- C++
 
 ### 🐈‍⬛ Noodles
 My sphynx cat!
