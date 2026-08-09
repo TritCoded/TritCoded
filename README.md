@@ -36,7 +36,4 @@
 [![Portfolio](https://img.shields.io/badge/%20Porfolio-4285F4?logo=GoogleChrome&logoColor=white)](https://tritcoded.github.io)
 ![Email](https://img.shields.io/badge/-tlstockley%40mun.ca-D14836?style=flat&logo=gmail&logoColor=white)
 
----
-
-<img src="https://github.com/TritCoded/TritCoded/assets/162391277/bfe5f5b4-8c5c-4662-8659-d2395fd0e116" alt="Noodles" width="200px">
 </div>
