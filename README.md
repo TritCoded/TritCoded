@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Tristan 👋
-💻 Computer Engineering @ [MUN](https://www.mun.ca/) - Class of 2029 <br>
+💻 2nd-Year Computer Engineering @ [MUN](https://www.mun.ca/) <br>
 🚀 Avionics @ [Horizon Aerospace](https://www.horizon-aerospace.ca/) ||
 🚁Autonomy @ [Valiant Aerotech](https://valiantaerotech.com/) <br>
 📍 St. John's, NL
