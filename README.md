@@ -6,6 +6,8 @@
 🚁Autonomy @ [Valiant Aerotech](https://valiantaerotech.com/) <br>
 📍 St. John's, NL
 
+![Status](https://img.shields.io/badge/Open%20for-Fall%202026%20Work%20Terms-brightgreen?style=flat)
+
 ### ⚙️ Tech Stack ⚙️
 
 **Embedded & Hardware**  
