@@ -3,7 +3,7 @@
 # Hey, I'm Tristan 👋
 💻 2nd-Year Computer Engineering @ [MUN](https://www.mun.ca/) <br>
 🚀 Avionics @ [Horizon Aerospace](https://www.horizon-aerospace.ca/)  <br>
-🚁Autonomy @ [Valiant Aerotech](https://valiantaerotech.com/) <br>
+🚁 Autonomy @ [Valiant Aerotech](https://valiantaerotech.com/) <br>
 📍 St. John's, NL
 
 
