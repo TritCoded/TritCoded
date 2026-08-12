@@ -31,6 +31,7 @@
 ## Recent Projects 🗃️
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TritCoded&repo=tritcoded%2Fthoth&theme=radical)](https://github.com/tritcoded/thoth)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TritCoded&repo=tritcoded%2Ftritcoded.github.io&theme=radical)](https://github.com/tritcoded/tritcoded.github.io)
+
 ## Let's Chat ☕
 ![Status](https://img.shields.io/badge/Open%20for-Fall%202026%20Work%20Terms-brightgreen?style=flat)
 <br>
