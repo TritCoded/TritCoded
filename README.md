@@ -1,5 +1,3 @@
-
-
 # Hey, I'm Tristan 👋
 💻 2nd-Year Computer Engineering @ [MUN](https://www.mun.ca/) <br>
 🚀 Avionics @ [Horizon Aerospace](https://www.horizon-aerospace.ca/)  <br>
@@ -8,7 +6,6 @@
 
 
 ## Languages and Tools 🏹
-
 
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -31,12 +28,12 @@
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
-
+## Recent Projects 🗃️
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TritCoded&repo=tritcoded%2Fthoth&theme=radical)](https://github.com/tritcoded/thoth)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TritCoded&repo=tritcoded%2Ftritcoded.github.io&theme=radical)](https://github.com/tritcoded/tritcoded.github.io)
 ## Let's Chat ☕
 ![Status](https://img.shields.io/badge/Open%20for-Fall%202026%20Work%20Terms-brightgreen?style=flat)
 <br>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/tristanstockley)
 [![Portfolio](https://img.shields.io/badge/%20Porfolio-4285F4?logo=GoogleChrome&logoColor=white)](https://tritcoded.github.io)
 ![Email](https://img.shields.io/badge/-tlstockley%40mun.ca-D14836?style=flat&logo=gmail&logoColor=white)
-
-
